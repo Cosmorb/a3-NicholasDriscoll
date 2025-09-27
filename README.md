@@ -35,13 +35,10 @@ I paid attention to readability and accessibility by ensuring good spacing and a
 I added a small custom CSS file to tweak Bootstrap defaults, such as button spacing, table borders, and fonts. This makes the site feel cohesive and more like a personal portfolio instead of just raw Bootstrap. – 5 points
 
 
----
-
 AI Use and Challenges:
 
 This project was mainly developed in VS Code, and the most challenging parts involved getting server.js and main.js to work correctly. The biggest issue came from Helmet, which blocked inline scripts and broke my login attempts. This led me to rewrite and restructure parts of my code multiple times and even create a separate login.js to work around it. Because I struggled with login issues for a long time, I depended more on AI (ChatGPT) for troubleshooting than I initially planned. Many suggested fixes didn’t work immediately, which pushed me to experiment, rewrite, and heavily modify my code until it met my needs. Some of the login and session handling code reflects this process. That said, I plan to revisit and clean up the code to better reflect my personal style and skills instead of just AI solutions. Currently, it works and satisfies the requirements, but I want to understand it fully and make it independent of these tools. Also, Grammarly was used for the writing of this document.
 
----
 
 Some of the resources used:
 
