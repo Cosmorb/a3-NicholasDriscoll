@@ -1,4 +1,4 @@
-// References:
+// References
 // https://expressjs.com/en/starter/hello-world.html
 // https://github.com/expressjs/session
 // https://mongoosejs.com/docs/guide.html
